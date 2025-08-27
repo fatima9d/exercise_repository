@@ -1,4 +1,4 @@
 print("hello world")
 print("hello d")
 
-print("hello dnsx")
+print("hello dns")
